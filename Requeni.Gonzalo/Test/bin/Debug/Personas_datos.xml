@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Personas>
+    <id>1</id>
+    <nombre>Jaimito</nombre>
+    <apellido>Pagina</apellido>
+    <edad>74</edad>
+  </Personas>
+  <Personas>
+    <id>2</id>
+    <nombre>Alfredito</nombre>
+    <apellido>Mercurio</apellido>
+    <edad>68</edad>
+  </Personas>
+  <Personas>
+    <id>3</id>
+    <nombre>Juan</nombre>
+    <apellido>Campanella</apellido>
+    <edad>84</edad>
+  </Personas>
+  <Personas>
+    <id>4</id>
+    <nombre>Esteban</nombre>
+    <apellido>Trabajos</apellido>
+    <edad>58</edad>
+  </Personas>
+  <Personas>
+    <id>5</id>
+    <nombre>Roberto</nombre>
+    <apellido>Sanchez</apellido>
+    <edad>69</edad>
+  </Personas>
+  <Personas>
+    <id>7</id>
+    <nombre>Rodrigo</nombre>
+    <apellido>Perez</apellido>
+    <edad>62</edad>
+  </Personas>
+</DocumentElement>

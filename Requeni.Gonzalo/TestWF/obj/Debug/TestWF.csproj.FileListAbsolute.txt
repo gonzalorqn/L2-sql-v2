@@ -1,0 +1,14 @@
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\TestWF.exe.config
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\TestWF.exe
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\TestWF.pdb
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\Entidades.pdb
+D:\VisualStudio\Requeni.Gonzalo\TestWF\bin\Debug\Entidades.dll.config
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.FrmListado.resources
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.Properties.Resources.resources
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.csproj.GenerateResource.cache
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.csproj.CopyComplete
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.exe
+D:\VisualStudio\Requeni.Gonzalo\TestWF\obj\Debug\TestWF.pdb
